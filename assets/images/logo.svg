@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 350 280" width="100%" height="100%">
+  <g fill="none" stroke="#1D82C5" stroke-linecap="round" stroke-linejoin="round">
+    <!-- Sol Arco Central -->
+    <path d="M 106 175 A 70 70 0 0 1 244 175" stroke-width="7" />
+
+    <!-- Ondas na Base -->
+    <path d="M 131 198 C 170 196 220 220 270 210 C 288 206 300 203 306 205" stroke-width="6.5" />
+    <path d="M 22 225 C 90 205 160 215 220 235 C 260 248 290 240 306 230" stroke-width="6.5" />
+    <path d="M 62 231 C 120 220 170 238 215 250 C 240 258 280 268 312 258" stroke-width="6.5" />
+
+    <!-- Rayos do Sol (Esquerda para Direita) -->
+    <path d="M 18 178 L 98 171" stroke-width="6.5" />
+    <path d="M 28 152 L 105 158" stroke-width="6" />
+    <path d="M 61 129 L 102 142" stroke-width="6" />
+    <path d="M 76 160 L 98 163" stroke-width="5" />
+
+    <path d="M 33 120 L 108 141" stroke-width="6.5" />
+    <path d="M 52 97 L 115 128" stroke-width="6.5" />
+    <path d="M 83 50 L 129 116" stroke-width="7" />
+    <path d="M 121 70 L 140 108" stroke-width="6" />
+
+    <path d="M 143 23 L 158 107" stroke-width="7" />
+    <path d="M 163 34 L 171 106" stroke-width="7" />
+    <path d="M 186 52 L 188 108" stroke-width="6.5" />
+    <path d="M 212 43 L 202 112" stroke-width="7" />
+    <path d="M 230 65 L 216 122" stroke-width="6.5" />
+
+    <path d="M 251 72 L 230 132" stroke-width="6.5" />
+    <path d="M 262 94 L 239 143" stroke-width="6.5" />
+    <path d="M 281 121 L 246 156" stroke-width="6" />
+    <path d="M 300 104 L 253 150" stroke-width="6" />
+
+    <path d="M 258 165 L 318 146" stroke-width="6" />
+    <path d="M 256 182 L 316 172" stroke-width="6" />
+    <path d="M 257 197 L 338 196" stroke-width="6.5" />
+  </g>
+</svg>
