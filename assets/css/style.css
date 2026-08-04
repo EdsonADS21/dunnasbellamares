@@ -1041,7 +1041,7 @@ textarea.form-control {
 }
 
 /* Responsive Breakpoints */
-@media (max-width: 1080px) {
+@media (max-width: 1028px) {
   .hero-grid {
     grid-template-columns: 1fr;
     text-align: center;
