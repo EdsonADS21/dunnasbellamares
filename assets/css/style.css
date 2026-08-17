@@ -1179,3 +1179,50 @@ textarea.form-control {
     text-align: center;
   }
 }
+
+button,
+.nav-link,
+.btn-primary,
+.btn-secondary,
+.btn-airbnb,
+.contact-item-link,
+.filter-btn,
+.social-icon-btn {
+  touch-action: manipulation;
+  min-height: 44px;
+}
+
+/* Prevenção de auto-zoom em inputs no iOS */
+input.form-control,
+textarea.form-control {
+  font-size: 16px !important;
+}
+
+/* Otimização de renderização de seções fora da viewport */
+.section {
+  content-visibility: auto;
+  contain-intrinsic-size: 1px 800px;
+}
+
+/* Botões circulares para as Redes Sociais no Rodapé */
+.social-icon-btn {
+  width: 44px;
+  height: 44px;
+  border-radius: 50%;
+  background: rgba(255, 255, 255, 0.08);
+  border: 1px solid var(--glass-border);
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  color: var(--text-main);
+  font-size: 1.1rem;
+  transition: var(--transition);
+}
+
+.social-icon-btn:hover {
+  background: var(--primary);
+  color: #FFFFFF;
+  border-color: var(--primary);
+  transform: translateY(-3px);
+  box-shadow: 0 4px 15px var(--primary-glow);
+}
