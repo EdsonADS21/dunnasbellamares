@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+
+# Link do sitemap para ajudar o Google a encontrar suas páginas
+Sitemap: https://dunnasbellamares.com.br/sitemap.xml
